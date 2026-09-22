@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+
+}
+p{
+    font-size: 2em;
+}
+.highlight{
+    background-color: blueviolet;
+}
+/* id selector*/
+#intro {
+    font-size: 24px;
+}
